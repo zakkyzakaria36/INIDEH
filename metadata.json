@@ -1,0 +1,6 @@
+{
+  "name": "PinVPN - Ultra-Fast, Private & Borderless VPN",
+  "description": "Next-generation VPN landing page featuring global high-speed server coverage, real-time encrypted connection simulation, speed tests, and privacy leak diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
